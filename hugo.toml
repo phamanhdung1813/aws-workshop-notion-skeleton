@@ -1,0 +1,43 @@
+# Normally it will be a exact website like aws-s2s.bamidev.com
+# But since I use Github Pages and already setup custom domain redirect for each workshop
+# So this base URL is enough, Github Pages will redirect to the correct repo for me
+baseURL = 'https://heo001997.github.io/'
+languageCode = 'en-us'
+title = 'AWS Workshop'
+theme = 'hugo-theme-relearn'
+
+[params]
+  images = [ "images/thumbnail.png" ]
+  disableSearch = true
+  author.name = "Tu Ricky"
+  disableLandingPageButton = true
+  collapsibleMenu = true
+
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Branding
+  themeVariant = [
+      { identifier = "zen-light" },
+  ]
+#++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[menu]
+  [[menu.shortcuts]]
+  name = "<i class='fa-fw fas fa-bullhorn'></i> Bamidev"
+  url = 'https://www.bamidev.com/'
+  weight = 1
+
+  [[menu.shortcuts]]
+  identifier = 'ds'
+  name = "<i class='fa-fw fab fa-github'></i> GitHub repository"
+  url = 'https://github.com/heo001997/aws-workshop_site-to-site_vpn-connection'
+  weight = 2
+
+  [[menu.shortcuts]]
+  name = "<i class='fa-fw fas fa-camera'></i> More FCJ workshops"
+  url = 'https://cloudjourney.awsstudygroup.com/'
+  weight = 3
+
+  [[menu.shortcuts]]
+  name = "<i class='fa-brands fa-facebook'></i> AWS Study Group - FB Group"
+  url = 'https://www.facebook.com/groups/awsstudygroupfcj'
+  weight = 4
