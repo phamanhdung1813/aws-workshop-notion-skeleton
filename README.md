@@ -1,14 +1,8 @@
-# AWS Workshop - Site-to-Site Vpn Connections
+# Skeleton AWS Workshop
 
-AWS Site-to-Site VPN Connections Workshop: http://aws-s2s.bamidev.com/
+This repository is the skeleton for FCJ AWS Workshop, come with standard Hugo with Relearn theme.
 
-This repo is re-formatted from [my original workshop written in Notion](https://mybamidev.notion.site/Workshop-Site-to-Site-VPN-AWS-to-Datacenter-71a230664cf04e3cae7c1cecd2e6c465?pvs=74).
+It can be use instantly or combine with [auto sync from Notion to Markdown](https://github.com/heo001997/notion-to-markdown)
 
-![architecture-diagram](static/images/01-introduction/02-architecture-diagram/architecture-diagram.png)
+Hope you enjoy!
 
-I apply the following changes:
-  1. Added Hugo to the repo to generate the website
-  2. Added Notion sync to the repo to keep the website up to date with the workshop
-  3. Added custom Hugo action to fast show architecture diagram
-
-Hope you enjoy the workshop!
