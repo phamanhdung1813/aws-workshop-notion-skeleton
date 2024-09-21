@@ -16,16 +16,16 @@ To use the **free CORS Proxy**, we input our free CORS Proxy URL.
 (Optional) For convenience, I’ve added a proxy note. Clicking it will automatically fill in [`https://cors-anywhere.herokuapp.com/`](https://cors-anywhere.herokuapp.com/) and open a new tab.
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b3be9f1-97c4-418b-bbaa-d8da15555e46/99d4f8db-3d4f-4395-9600-c83491f6274d/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240921%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240921T010957Z&X-Amz-Expires=3600&X-Amz-Signature=3c3dc59c0cd233f551e3a0ac36e9d9234b5eb6a4f8c698008c808b83b4dbc9ce&X-Amz-SignedHeaders=host&x-id=GetObject)
+![image.png](/images/002-ii-level-1-notion-to-md-fix/10-179521-image.png)
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b3be9f1-97c4-418b-bbaa-d8da15555e46/d4c2fb94-bee2-4f02-b8a7-909a80dbc0dd/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240921%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240921T010957Z&X-Amz-Expires=3600&X-Amz-Signature=f1f5109d05ae2985015f62ca4934ca11700b9d06d26b9942fa648e660ce496df&X-Amz-SignedHeaders=host&x-id=GetObject)
+![image.png](/images/002-ii-level-1-notion-to-md-fix/10-891253-image.png)
 
 
 On the new tab, click **"Request temporary access"** to allow the use of this free CORS Proxy.
 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b3be9f1-97c4-418b-bbaa-d8da15555e46/414eb1b3-945d-4ac1-9acb-5e473ab5c781/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240921%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240921T010957Z&X-Amz-Expires=3600&X-Amz-Signature=26bcf2ba3234894d1450efaef48ba43a7d89b3b8a1b2106bb79289a0acab86b7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![image.png](/images/002-ii-level-1-notion-to-md-fix/10-169991-image.png)
 
 
 **DISCLAIMER:** 
@@ -36,6 +36,6 @@ On the new tab, click **"Request temporary access"** to allow the use of this fr
 4. If you're still worried about security, you can use **your own CORS Proxy URL** or a **trusted CORS Proxy URL**. You are very welcome to do so.
 5. The only time we use this **CORS Proxy** is when you **click "Convert"** to retrieve the Notion page information. **No other features or actions** will use this CORS Proxy.
 
-	![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b3be9f1-97c4-418b-bbaa-d8da15555e46/93b315cf-572c-4d78-b3bb-d1d225239063/image.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20240921%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240921T011000Z&X-Amz-Expires=3600&X-Amz-Signature=d4c80f10950931cae128b202924d5b69c8f85737d4cb8e67d45d52f4cf94c3aa&X-Amz-SignedHeaders=host&x-id=GetObject)
+	![image.png](/images/002-ii-level-1-notion-to-md-fix/10-799303-image.png)
 
 
