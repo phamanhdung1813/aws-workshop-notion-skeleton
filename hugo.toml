@@ -10,7 +10,7 @@ theme = 'hugo-theme-relearn'
   miniMapImage = "/images/mini-map.png"
   images = [ "images/thumbnail.png" ]
   disableSearch = true
-  author.name = "Tu Ricky"
+  author.name = "Anh Pham"
   disableLandingPageButton = true
   collapsibleMenu = true
 
@@ -23,7 +23,7 @@ theme = 'hugo-theme-relearn'
 
 [menu]
   [[menu.shortcuts]]
-  name = "<i class='fa-fw fas fa-bullhorn'></i> Bamidev"
+  name = "<i class='fa-fw fas fa-bullhorn'></i> Anh Pham"
   url = 'https://www.bamidev.com/'
   weight = 1
 
